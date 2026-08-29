@@ -36,6 +36,12 @@
 
 ### Windows
 
+**方式一：一键创建桌面快捷方式（推荐）**
+
+下载本仓库（`Code → Download ZIP` 解压，或 `git clone`），进入目录后**双击 `创建桌面快捷方式.bat`**，桌面即出现「文件后缀转换器」图标，以后双击图标即可打开工具（无命令行黑窗口）。
+
+**方式二：命令行运行**
+
 ```bash
 # Python 3.8+ 官方安装包自带 tkinter，直接运行
 python file_extension_changer.py

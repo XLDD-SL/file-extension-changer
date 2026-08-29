@@ -29,6 +29,10 @@ A **zero-dependency, ready-to-run** local tool for batch-renaming file extension
 
 ### Windows
 
+**Option 1 — one-click desktop shortcut (recommended):** download the repository (unzip or `git clone`), then double-click `创建桌面快捷方式.bat`. A shortcut appears on your desktop — just double-click it to launch the tool (no console window).
+
+**Option 2 — command line:**
+
 ```bash
 python file_extension_changer.py   # Python 3.8+ ships with tkinter
 ```

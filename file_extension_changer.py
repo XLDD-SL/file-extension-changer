@@ -66,7 +66,7 @@ except ImportError:  # pragma: no cover
 # ======================================================================
 
 APP_TITLE = "文件后缀转换器"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 
 #: 转换前的安全确认文案（需求规定的固定文案，请勿修改）
 CONFIRM_MESSAGE = (

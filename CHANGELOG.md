@@ -3,6 +3,11 @@
 本项目的所有重要变更都会记录在此文件中。
 格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。
 
+## [1.0.1] - 2026-08-29
+
+### Added
+- Windows 一键创建桌面快捷方式：双击 `创建桌面快捷方式.bat` 即可在桌面生成启动图标（通过 `pythonw.exe` 启动，无命令行黑窗口）
+
 ## [1.0.0] - 2026-08-29
 
 ### Added
